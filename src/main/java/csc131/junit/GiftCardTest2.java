@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class GiftCardTest2 {
 
-
+//random comment to help stage
 	@Test
 	void testGetIssuingStore() {
 		double balance;
